@@ -47,15 +47,30 @@
         "value": "",
         "required": true
       },
-      "HEROKU_API_KEY": {
+      "SUPPORT_CHANNEL": {
         "description": "Your Heroku account's API key",
         "value": "",
-        "required": false
+        "required": true
       },
-      "HEROKU_APP_NAME": {
+      "SUPPORT_GROUP": {
         "description": "Your heroku app/bot's name",
         "value": "",
-        "required": false
+        "required": true
+      },
+        "STATS_IMG_URL": {
+        "description": "Your heroku app/bot's name",
+        "value": "",
+        "required":true
+      },
+        "PING_IMG_URL": {
+        "description": "Your heroku app/bot's name",
+        "value": "",
+        "required": true
+      },
+        "START_IMG_URL": {
+        "description": "Your heroku app/bot's name",
+        "value": "",
+        "required": true
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
