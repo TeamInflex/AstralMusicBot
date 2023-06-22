@@ -48,27 +48,27 @@
         "required": true
       },
       "SUPPORT_CHANNEL": {
-        "description": "Your Heroku account's API key",
+        "description": "Put Your Channel Link .",
         "value": "",
         "required": true
       },
       "SUPPORT_GROUP": {
-        "description": "Your heroku app/bot's name",
+        "description": "Put Your Group Link .",
         "value": "",
         "required": true
       },
         "STATS_IMG_URL": {
-        "description": "Your heroku app/bot's name",
+        "description": "Put Telegraph Image Link .",
         "value": "",
         "required":true
       },
         "PING_IMG_URL": {
-        "description": "Your heroku app/bot's name",
+        "description": "Put Telegraph Image Link .",
         "value": "",
         "required": true
       },
         "START_IMG_URL": {
-        "description": "Your heroku app/bot's name",
+        "description": "Put Telegraph Image Link .",
         "value": "",
         "required": true
       },
